@@ -1,0 +1,11 @@
+module Bu3424
+#=
+by default the bustec dll is found at C:\Program Files\IVI Foundation\VISA\Win64\Bin\bu3424.dll.  
+There is probably a pointer to this path somewhere in the system
+
+The functionality of this library is found in C:\Program Files\IVI Foundation\VISA\Win64\bu3424\bu3434.chm or bu3424.txt.
+
+Probably use @ccall instead of ccall for this project.
+=#
+
+end # module
